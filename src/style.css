@@ -1,0 +1,17 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+
+#catContainer{
+    display: flex;  
+    justify-content: center;
+    margin-top: 10px;
+}
+ 
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
